@@ -1,0 +1,3 @@
+[submodule "Voron-Stealthburner"]
+	path = Voron-Stealthburner
+	url = https://github.com/VoronDesign/Voron-Stealthburner.git
