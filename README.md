@@ -1,4 +1,2 @@
-# FDM-3D-tiskarna
-Maturitní projekt na praktickou část maturity z informatiky na Gymnázium Jana Keplera, ve školním roce 2022/2023. Naleznete zde kompletní projekt, včetně dokumentace.
-## Název tiskárny
-Tiskárna byla pojmenována **TrianglePrinter**, protože trojúhelníkové vzory jsou zde hojně používány.
+# CoreXY 3D printer - TrianglePrinter
+Graduation project for Johannes Kepler gymnasium, school year 2022/23. Full project including documentation will be in this repository.
